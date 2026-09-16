@@ -1,0 +1,9 @@
+# Tested teaching environment: Python 3.12.
+streamlit
+numpy
+pandas
+matplotlib
+scikit-learn
+lifelines
+plotly
+minizinc
